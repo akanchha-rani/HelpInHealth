@@ -5,6 +5,7 @@ The application aims to digitize and streamline hospital operations such as **pa
 
 This project was built as part of academic learning and hands-on full-stack development practice, with a focus on **scalable architecture, clean UI, and RESTful APIs**.
 
+
 ## ❓ Problem Statement
 
 Traditional hospital systems often rely on **manual record-keeping**, which can lead to:
@@ -16,6 +17,7 @@ Traditional hospital systems often rely on **manual record-keeping**, which can 
 
 There is a need for a **centralized, digital, and scalable solution** that can handle hospital workflows efficiently.
 
+
 ## ✅ Solution Overview
 
 HelpInHealth provides a **web-based platform** where hospitals can:
@@ -26,6 +28,7 @@ HelpInHealth provides a **web-based platform** where hospitals can:
 - Maintain data securely using a backend API  
 
 The system is designed with **separation of concerns**, where frontend, backend, and database layers operate independently.
+
 
 ## ✨ Key Features
 
@@ -53,6 +56,7 @@ The system is designed with **separation of concerns**, where frontend, backend,
 - Secure database operations using MongoDB
 - Input validation and error handling
 
+
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -75,6 +79,7 @@ The system is designed with **separation of concerns**, where frontend, backend,
 - npm
 - Postman (API testing)
 
+
 ## 🧩 System Architecture
 
 Client (React)
@@ -91,28 +96,51 @@ MongoDB Database
 - Backend handles business logic and database operations
 - MongoDB stores structured hospital data
 
+
 ## 📁 Project Structure
 
 HelpInHealth/
+
 │
+
 ├── client/ # Patient-facing frontend (React)
+
 │ ├── src/
+
 │ ├── public/
+
 │ └── package.json
+
 │
+
 ├── dashboard/ # Admin / Doctor dashboard (React)
+
 │ ├── src/
+
 │ ├── public/
+
 │ └── package.json
+
 │
+
 ├── server/ # Backend (Node.js + Express)
+
 │ ├── models/ # Mongoose schemas
+
 │ ├── routes/ # API routes
+
 │ ├── controllers/ # Business logic
+
 │ ├── config/ # Database config
+
 │ ├── index.js
+
 │ └── package.json
+
 │
+
 ├── .gitignore
+
 ├── README.md
+
 └── package.json
