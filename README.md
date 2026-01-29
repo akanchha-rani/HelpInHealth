@@ -69,3 +69,8 @@ The system is designed with **separation of concerns**, where frontend, backend,
 ### Database
 - **MongoDB**
 - Mongoose ODM
+
+### Tools & Utilities
+- Git & GitHub
+- npm
+- Postman (API testing)
