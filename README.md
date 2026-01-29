@@ -52,3 +52,11 @@ The system is designed with **separation of concerns**, where frontend, backend,
 - RESTful API architecture
 - Secure database operations using MongoDB
 - Input validation and error handling
+
+## 🛠 Tech Stack
+
+### Frontend
+- **React.js**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
