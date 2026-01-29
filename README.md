@@ -65,3 +65,7 @@ The system is designed with **separation of concerns**, where frontend, backend,
 - **Node.js**
 - **Express.js**
 - REST API architecture
+
+### Database
+- **MongoDB**
+- Mongoose ODM
