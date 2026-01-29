@@ -74,3 +74,9 @@ The system is designed with **separation of concerns**, where frontend, backend,
 - Git & GitHub
 - npm
 - Postman (API testing)
+
+Client (React)
+↓ HTTP Requests
+Express API (Node.js)
+↓
+MongoDB Database
