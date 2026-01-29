@@ -26,3 +26,11 @@ HelpInHealth provides a **web-based platform** where hospitals can:
 - Maintain data securely using a backend API  
 
 The system is designed with **separation of concerns**, where frontend, backend, and database layers operate independently.
+
+## ✨ Key Features
+
+### 👤 Patient Management
+- Register new patients
+- View and update patient details
+- Store medical history
+- 
