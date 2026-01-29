@@ -78,9 +78,13 @@ The system is designed with **separation of concerns**, where frontend, backend,
 ## 🧩 System Architecture
 
 Client (React)
-↓ HTTP Requests
-Express API (Node.js)
+
 ↓
+
+HTTP Requests Express API (Node.js)
+
+↓
+
 MongoDB Database
 
 - Frontend communicates with backend using **REST APIs**
