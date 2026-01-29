@@ -47,3 +47,8 @@ The system is designed with **separation of concerns**, where frontend, backend,
 ### 📊 Admin Dashboard
 - Overview of hospital activity
 - Manage doctors, patients, and appointments
+
+### 🔐 Security & Data Handling
+- RESTful API architecture
+- Secure database operations using MongoDB
+- Input validation and error handling
