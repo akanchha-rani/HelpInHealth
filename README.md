@@ -15,3 +15,14 @@ Traditional hospital systems often rely on **manual record-keeping**, which can 
 - Poor accessibility of records  
 
 There is a need for a **centralized, digital, and scalable solution** that can handle hospital workflows efficiently.
+
+## ✅ Solution Overview
+
+HelpInHealth provides a **web-based platform** where hospitals can:
+
+- Digitally manage patient records  
+- Schedule and monitor appointments  
+- Provide dashboards for doctors and administrators  
+- Maintain data securely using a backend API  
+
+The system is designed with **separation of concerns**, where frontend, backend, and database layers operate independently.
