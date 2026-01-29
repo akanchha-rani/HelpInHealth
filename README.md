@@ -39,4 +39,7 @@ The system is designed with **separation of concerns**, where frontend, backend,
 - View upcoming and past appointments
 - Avoid scheduling conflicts
 
-  
+### 🩺 Doctor / Staff Dashboard
+- View assigned patients
+- Access appointment schedules
+- Manage patient records  
