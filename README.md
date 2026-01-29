@@ -60,3 +60,8 @@ The system is designed with **separation of concerns**, where frontend, backend,
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+
+### Backend
+- **Node.js**
+- **Express.js**
+- REST API architecture
