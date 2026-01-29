@@ -90,3 +90,29 @@ MongoDB Database
 - Frontend communicates with backend using **REST APIs**
 - Backend handles business logic and database operations
 - MongoDB stores structured hospital data
+
+## 📁 Project Structure
+
+HelpInHealth/
+│
+├── client/ # Patient-facing frontend (React)
+│ ├── src/
+│ ├── public/
+│ └── package.json
+│
+├── dashboard/ # Admin / Doctor dashboard (React)
+│ ├── src/
+│ ├── public/
+│ └── package.json
+│
+├── server/ # Backend (Node.js + Express)
+│ ├── models/ # Mongoose schemas
+│ ├── routes/ # API routes
+│ ├── controllers/ # Business logic
+│ ├── config/ # Database config
+│ ├── index.js
+│ └── package.json
+│
+├── .gitignore
+├── README.md
+└── package.json
