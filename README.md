@@ -75,8 +75,14 @@ The system is designed with **separation of concerns**, where frontend, backend,
 - npm
 - Postman (API testing)
 
+## 🧩 System Architecture
+
 Client (React)
 ↓ HTTP Requests
 Express API (Node.js)
 ↓
 MongoDB Database
+
+- Frontend communicates with backend using **REST APIs**
+- Backend handles business logic and database operations
+- MongoDB stores structured hospital data
