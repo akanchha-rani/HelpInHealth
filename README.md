@@ -33,4 +33,10 @@ The system is designed with **separation of concerns**, where frontend, backend,
 - Register new patients
 - View and update patient details
 - Store medical history
-- 
+
+### 📅 Appointment Management
+- Book appointments
+- View upcoming and past appointments
+- Avoid scheduling conflicts
+
+  
