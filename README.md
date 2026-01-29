@@ -43,3 +43,7 @@ The system is designed with **separation of concerns**, where frontend, backend,
 - View assigned patients
 - Access appointment schedules
 - Manage patient records  
+
+### 📊 Admin Dashboard
+- Overview of hospital activity
+- Manage doctors, patients, and appointments
